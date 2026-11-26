@@ -1,5 +1,17 @@
 # Editor autónomo
 
+**Connect Claude Code to DaVinci Resolve, including the free version, for autonomous video editing.**
+A bridge running inside Resolve lets the agent assemble, cut, title, colour-grade and export, with a
+packaged skill, a cross-platform installer and read-only footage download from Google Drive, OneDrive and
+SharePoint through rclone.
+
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-free%20%26%20Studio-233A51)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-skill-D97757)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![License](https://img.shields.io/badge/license-MIT-green)
+
+---
+
 Conecta **Claude Code** con **DaVinci Resolve** para que Claude pueda editar por ti: montar, cortar, poner textos, etalonar,
 revisar y exportar. Por ejemplo, un documental o una tanda de reels. Funciona también con la **versión gratuita** de Resolve y
 puede bajar el material de **Google Drive, OneDrive o SharePoint** con rclone.
